@@ -1,0 +1,19 @@
+{
+  "name": "mth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isoftware23/Mth.git"
+  },
+  "author": "ski23523",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isoftware23/Mth/issues"
+  },
+  "homepage": "https://github.com/Isoftware23/Mth#readme"
+}
